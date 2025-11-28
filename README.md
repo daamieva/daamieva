@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm David
+I'm an engineer exploring my interests in robotics, pharmaceuticals and finance through personal projects.
 
-<!--
-**daamieva/daamieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Featured Projects
+### 1. Autonomous Line-Following Robot  
+**Tech:** Arduino, PID control, IR sensors  
+[Repository Link](#)  
+A compact bot that uses IR array data and a tuned PID loop to follow tracks smoothly.
 
-Here are some ideas to get you started:
+### 2. Robotic Arm With Inverse Kinematics  
+**Tech:** Python, Arduino, Trig IK  
+[Repository Link](#)  
+A 4-DOF arm with simple IK-based control and position presets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 3. ML-Based Object Detection Rover  
+**Tech:** Raspberry Pi, Python, TensorFlow Lite  
+[Repository Link](#)  
+Rover that scans the environment, detects objects, and navigates around obstacles.
+
+---
+
+## 🧰 Skills
+- Robotics: Arduino, Raspberry Pi, sensors, motors  
+- Software: Python, C/C++, ROS  
+- ML/AI: Vision models, embedded ML  
+- Tooling: Git, Docker, FastAPI  
+
+## 📫 Get in Touch
+LinkedIn: …  
+Email: …
