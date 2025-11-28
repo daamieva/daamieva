@@ -3,8 +3,8 @@ I'm an engineer exploring my interests in robotics, pharmaceuticals and finance 
 
 ## 🔧 Featured Projects
 ### 1. Measuring Tablet Strength In-line    
-**Tech:** Arduino, IR sensors, Step Motor, 3D Printing
-[Pharma Tablet Starwheel](https://https://github.com/daamieva/pharma-tablet-starwheel)
+**Tech:** Arduino, IR sensors, Step Motor, 3D Printing  
+[Pharma Tablet Starwheel](https://github.com/daamieva/pharma-tablet-starwheel)  
 Prototype device to help measure tablet strength in in-line continuous manufacturing
 
 
