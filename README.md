@@ -1,5 +1,5 @@
 # 👋 Hi, I'm David
-I'm an engineer exploring my interests in robotics, pharmaceuticals, tech, and much more!
+I'm a mechanical engineering student exploring my interests in robotics, pharmaceuticals, tech, and much more!
 
 ## 🔧 Featured Projects
 ### 1. Non-Destructively Measuring Pharma Tablet Strength In-line    
